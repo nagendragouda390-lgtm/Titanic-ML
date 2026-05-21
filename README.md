@@ -1,9 +1,9 @@
-# Titanic Survival Prediction
+## Titanic Survival Prediction
 
 This is my beginner machine learning project using the Titanic dataset from Kaggle.
 
 ## Accuracy
-0.74641
+0.78229
 
 ## Models Used
 - Logistic Regression
