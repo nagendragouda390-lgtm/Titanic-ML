@@ -23,6 +23,14 @@ This is my beginner machine learning project using the Titanic dataset from Kagg
 5. Prediction
 6. Kaggle Submission
 
+## Results
+
+| Model | Accuracy |
+|-------|-----------|
+| Logistic Regression | 0. |
+| Decision Tree | 0. |
+| Random Forest | 0.78229|
+
 ## Future Improvements
 - Feature Engineering
 - Cross Validation
