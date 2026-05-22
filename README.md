@@ -1,4 +1,4 @@
-## Titanic Survival Prediction
+### Titanic Survival Prediction
 
 This is my beginner machine learning project using the Titanic dataset from Kaggle.
 
@@ -13,7 +13,6 @@ This is my beginner machine learning project using the Titanic dataset from Kagg
 ## Libraries
 - pandas
 - scikit-learn
-- numpy
 
 ## Workflow
 1. Data Cleaning
@@ -25,11 +24,11 @@ This is my beginner machine learning project using the Titanic dataset from Kagg
 
 ## Results
 
-| Model | Accuracy |
-|-------|-----------|
-| Logistic Regression | 0. |
-| Decision Tree | 0. |
-| Random Forest | 0.78229|
+|     Model           | Accuracy |
+|---------------------|----------|
+| Logistic Regression | 0.       |
+| Decision Tree       | 0.       |
+| Random Forest       | 0.78229  |
 
 ## Future Improvements
 - Feature Engineering
