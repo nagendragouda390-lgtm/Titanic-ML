@@ -2,7 +2,7 @@
 
 This is my beginner machine learning project using the Titanic dataset from Kaggle.
 
-## Accuracy
+### Kaggle score
 0.78229
 
 ## Models Used
