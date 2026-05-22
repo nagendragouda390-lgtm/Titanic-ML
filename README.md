@@ -26,9 +26,9 @@ This is my beginner machine learning project using the Titanic dataset from Kagg
 
 |     Model           | Accuracy |
 |---------------------|----------|
-| Logistic Regression | 0.79       |
-| Decision Tree       | 0.78       |
-| Random Forest       | 0.78229  |
+| Logistic Regression | 0.79888  |
+| Decision Tree       | 0.78212  |
+| Random Forest       | 0.82681  |
 
 ## Future Improvements
 - Feature Engineering
